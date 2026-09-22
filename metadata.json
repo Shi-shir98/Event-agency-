@@ -1,0 +1,6 @@
+{
+  "name": "Gig Big - Music & Events Creative Agency",
+  "description": "Australian live music and event management agency curating turnkey festivals, artist programming, and regional cultural experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
